@@ -1,4 +1,4 @@
-yaml_cpp_catkin
+STXXL_catkin
 ===============
 
-Yaml cpp catkin package
+STXXL catkin package
